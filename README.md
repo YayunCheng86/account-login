@@ -24,7 +24,7 @@
 
 ## Testing accounts
 名稱          | 信箱  | 密碼
---------------|:-----:|------------------------
+--------------|:-----:|---------------------
 Tony    | tony@stark.com | iamironman
 Steve   | captain@hotmail.com | icandothisallday
 Peter   | peter@parker.com | enajyram
